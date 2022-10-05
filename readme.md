@@ -1,3 +1,9 @@
+## Excluded  
+This repo is excluded from Hacktoberfest  
+![image](https://user-images.githubusercontent.com/54644253/194053421-bebfa605-8762-4d5c-aefb-235f4d20660f.png)
+
+ 
+
 ## Rules  
 
 **1)NO DSA CODES WILL BE ALLOWED**  
@@ -13,7 +19,7 @@ Alternative ->
    •PYTHON  
    •Any techstack(But make sure it is worthy enough!)
 
-3)Add snapshots of working project.    
+3)Add snapshots or **Deployed link** of working project .    
 4)Make sure follow [Shubham](https://github.com/shubham7668) & star the repo.     
   
 NOTE ⚠ : Dont push non working projects we will thoroughly check.
